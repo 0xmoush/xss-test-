@@ -1,1 +1,3 @@
-# xss-test-
+{
+  "title": "<script>alert('XSS')</script>"
+}
